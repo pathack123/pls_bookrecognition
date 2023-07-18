@@ -1,16 +1,4 @@
-# plstextrecog
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2](https://github.com/pathack123/pls_bookrecognition/assets/26498141/59088d81-45c8-48f5-93de-0b866fad70f1)
+![4](https://github.com/pathack123/pls_bookrecognition/assets/26498141/ade6fad7-7e5d-40d8-ae7a-af240e34ccb4)
+![3](https://github.com/pathack123/pls_bookrecognition/assets/26498141/a7560f9e-ea66-4d83-b1fd-ed9d3037f369)
+![1](https://github.com/pathack123/pls_bookrecognition/assets/26498141/1847eaad-cbd6-430a-97fb-1574b11445f8)
